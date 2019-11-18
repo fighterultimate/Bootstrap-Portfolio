@@ -8,6 +8,11 @@ body {
     color:black;
     
 }
+#nav:hover {
+background-color: rgb(59, 24, 184);
+  
+}
+
 #consize {
     padding: 30px;
 }
